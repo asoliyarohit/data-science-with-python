@@ -2,4 +2,4 @@
 
 Reading this book from springer. Written by Laura Igual and Santi Segui.
 
-I will also blog the chapters out as projects in my [blog](asoliyarohit.github.io)
+I will also blog the chapters out as projects in my [blog](https://asoliyarohit.github.io/)
